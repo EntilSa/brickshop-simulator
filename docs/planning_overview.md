@@ -3,7 +3,7 @@
 This document summarises the current planning state of my solo game project **“Brickshop Simulator”**.
 
 For the full interactive boards, see the public Notion page:  
-👉 [[Brickshop – Planning & Roadmap](HIER-DEIN-NOTION-LINK)](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)
+👉 [[Brickshop – Planning & Roadmap]](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)
 
 ---
 
