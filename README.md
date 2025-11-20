@@ -55,7 +55,7 @@ I’m following a structured roadmap:
 Planning details:
 
 - **Notion – Planning & Roadmap:**  
-  👉 [Brickshop – Planning & Roadmap](DEIN-NOTION-LINK)
+  👉 [[Brickshop – Planning & Roadmap]](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)
 
 - **Repository docs:**  
   👉 [`docs/planning_overview.md`](docs/planning_overview.md)
