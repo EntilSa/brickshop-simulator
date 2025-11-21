@@ -34,7 +34,7 @@ This project is in **planning phase**. No playable build available yet.
 - Economy system design
 - Technical architecture planning
 
-**Next milestone:** First Playable (Q1 2026) - basic buy/sell loop with minimal UI
+**Next milestone: First Playable – planned for early 2026 - basic buy/sell loop with minimal UI
 
 ---
 
@@ -70,7 +70,6 @@ This is a **solo dev learning project** built as part of my retraining in applic
 **Full planning details:**
 - 👉 **[Notion - Planning & Roadmap](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)** (public, interactive boards)
 - 👉 **[docs/planning_overview.md](docs/planning_overview.md)** (project vision & milestones)
-- 👉 **[docs/ROADMAP.md](docs/ROADMAP.md)** (development phases)
 - 👉 **[docs/devlog.md](docs/devlog.md)** (development journal)
 
 ---
@@ -104,7 +103,6 @@ Building this game to learn, grow, and create something meaningful for my portfo
 
 **Connect:**
 - GitHub: [EntliSa](https://github.com/EntilSa) 
-- Notion: [Project Workspace](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)
 
 ---
 
