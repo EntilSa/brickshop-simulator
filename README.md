@@ -11,7 +11,7 @@
 
 ## 🎮 What's This?
 
-Manage a fictional LEGO-style brick shop. Buy wholesale pallets, repair damaged sets, and speculate on retired products that become valuable over time. 
+Manage a fictional brick shop with LEGO®-style building sets (unofficial, not affiliated with the LEGO Group).
 
 **Core mechanics:**
 - Buy rest stock and returns (mixed condition, incomplete sets)
@@ -116,3 +116,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo to follow development!**  
 *Updates will be posted as the project evolves.*
+
+LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this project.
