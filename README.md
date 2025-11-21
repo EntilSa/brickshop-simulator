@@ -71,6 +71,8 @@ This is a **solo dev learning project** built as part of my retraining in applic
 - 👉 **[Notion - Planning & Roadmap](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)** (public, interactive boards)
 - 👉 **[docs/planning_overview.md](docs/planning_overview.md)** (project vision & milestones)
 - 👉 **[docs/devlog.md](docs/devlog.md)** (development journal)
+- 👉 **[docs/architecture.md](docs/architecture.md)** – technical target architecture (draft)
+
 
 ---
 
