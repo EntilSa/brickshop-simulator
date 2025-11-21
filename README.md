@@ -103,7 +103,7 @@ Solo developer & application development student based in Germany.
 Building this game to learn, grow, and create something meaningful for my portfolio.
 
 **Connect:**
-- GitHub: [@EntliSa](https://github.com/EntliSa) 
+- GitHub: [EntliSa](https://github.com/EntilSa) 
 - Notion: [Project Workspace](https://held-spice-b90.notion.site/Brickshop-Planning-Roadmap-2b12669e635880e9b86cd8df066a4c02)
 
 ---
