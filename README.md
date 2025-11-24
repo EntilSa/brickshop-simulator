@@ -16,10 +16,10 @@ Manage a fictional brick shop with LEGO®-style building sets (unofficial, not a
 **Core mechanics:**
 - Buy rest stock and returns (mixed condition, incomplete sets)
 - Sort, clean, and repair sets to increase value
-- Dynamic **Out-of-Print system** - sets become rare over time
+- Dynamic Out-of-Print system - sets become rare over time
 - Strategic pricing and inventory management
 
-Built with **Unity & C#** as a learning project and portfolio piece.
+Built with Unity & C# as a learning project and portfolio piece.
 
 **Current status:** Active pre-production (planning complete, development starts December 2025)
 
@@ -27,7 +27,7 @@ Built with **Unity & C#** as a learning project and portfolio piece.
 
 ## 🚧 Development Status
 
-This project is in **planning phase**. No playable build available yet.
+This project is in planning phase. No playable build available yet.
 
 **Current focus:**
 - Feature scoping & prioritization
